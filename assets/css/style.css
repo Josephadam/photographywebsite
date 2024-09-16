@@ -974,6 +974,9 @@
 	padding: 0;
 }
 /* ---------------------------------------------- Work header ------------------------------------------------------------------*/
+.work-header {
+	overflow: hidden;
+}
 
 .work-header .container {
 	display: flex;
